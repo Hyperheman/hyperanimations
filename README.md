@@ -1,1 +1,2 @@
 # hyperanimations
+copyrights
