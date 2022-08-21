@@ -1,3 +1,8 @@
+body {
+        background: #121b29;
+        background-size: cover;
+        font-family: 'Trebuchet MS', sans-serif;
+    }
 .button {
     
     border: none;
